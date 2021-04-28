@@ -1,0 +1,8 @@
+.main {
+    background-color: rgba(0,0,10,0.5);
+    padding: 10px;
+}
+.main img {
+    width: 100px;
+    border-radius: 50%;
+}

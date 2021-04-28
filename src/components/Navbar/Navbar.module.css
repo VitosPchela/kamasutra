@@ -1,0 +1,16 @@
+.nav {
+    grid-area: menu;
+    background-color: rgba(0,0,10,0.5);
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.item a{
+    text-decoration: none;
+    color: white;
+}
+
+.active a{
+    color: yellow;
+}

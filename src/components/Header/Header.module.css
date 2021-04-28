@@ -1,0 +1,10 @@
+.main {
+    grid-area: header;
+    background-color: rgba(0,0,10,0.5);
+}
+.img {
+    width: 300px;
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
